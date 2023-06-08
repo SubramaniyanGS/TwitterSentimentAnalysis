@@ -3,8 +3,8 @@ This project was help you to analyze the peoples emotions or sentiment in twitte
 # Using Languages
 Python
 # Using Libraries
-tweepy
-flask
+tweepy,
+,flask,
 textblob
 # Tools Used
 Vs code
