@@ -1,0 +1,30 @@
+body {
+  color:#00050b !important;
+  background: linear-gradient(to right, #96cef3, #c2ebf2, #8bd2f5);
+}
+
+#contact {
+  background: linear-gradient(to right, #96cef3, #c2ebf2, #8bd2f5);
+  padding:25px;
+  margin:50px 0;
+}
+
+#contact h1{
+  color: #2f2b61;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.table {
+  width: 95% !important; 
+  color:#2f2b61  !important;
+  margin: auto;
+}
+
+.table-bordered {
+  border: 2px solid  #2f2b61;
+}
+
+
+
