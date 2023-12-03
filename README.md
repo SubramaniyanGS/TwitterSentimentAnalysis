@@ -3,12 +3,12 @@ This project was help you to analyze the peoples emotions or sentiment in twitte
 
 ### How to Run
  
-First install python in your computer.
-Then open your terminal.
-Install Tweepy library
-pip install tweepy
-Install flask library
-pip install flask
-Install textblob library
-pip install textblob
-Then run this code in vscode
+- First install python in your computer.
+- Then open your terminal.
+- Install Tweepy library
+- pip install tweepy
+- Install flask library
+- pip install flask
+- Install textblob library
+- pip install textblob
+- Then run this code in vscode
