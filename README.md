@@ -1,5 +1,7 @@
 # TwitterSentimentAnalysis
-This project was help you to analyze the peoples emotions or sentiment in twitter.This is also used  to analyze the sentence.That sentence may be positive,negative or neutral.
+
+This project was help you to analyze the peoples emotions or sentiment in twitter.
+This is also used  to analyze the sentence.That sentence may be positive,negative or neutral.
 
 ### How to Run
  
